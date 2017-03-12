@@ -1,6 +1,6 @@
 # left-pad
 
-A Clojure library designed to add padding ("spacing in case of string", 0s in case of numbers)
+A Clojure library designed to add left padding to a string.
 
 ## Usage
 
