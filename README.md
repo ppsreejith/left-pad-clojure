@@ -4,7 +4,7 @@ A Clojure library designed to add left padding to a string.
 
 ## Usage
 
-```js
+```clojure
 (leftpad "hello" 8) => "   hello"
 (leftpad "hello" 2) => "hello"
 (leftpad "hello" 8 0) => "000hello"
